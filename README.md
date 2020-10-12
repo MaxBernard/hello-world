@@ -1,2 +1,4 @@
 # hello-world
-Getting started
+Getting started.
+This is the first comment added to readme.md.
+No reason.  Just practicing.
